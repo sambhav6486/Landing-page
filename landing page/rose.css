@@ -1,0 +1,116 @@
+
+/* navbar */
+.navbar{
+    background-color: #332b3d;
+}
+.navbar-nav{
+    margin-left: auto;
+    font-size: 1.3rem;
+    padding-right: 20px;
+}
+.navbar-brand{
+    color: #e58cdb;
+    font-family:'Dancing Script', cursive;
+    font-size: 2rem;
+}
+.nav-item{
+    padding-right: 20px;
+}
+/* navbar end */
+/* banner */
+header{
+    height: 400px;
+}
+.top{
+    background-image: url(https://pallav-jain-au3.github.io/roses/images/roses_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    background-position: center;
+}
+.banner{
+    padding-top: 130px;
+}
+.banner-heading{
+    color: white;
+   font-family: 'Roboto', sans-serif;
+   padding-bottom: 15px;
+}
+.banner-btn{
+    font-family: 'Dancing Script', cursive;
+    background-color: darkgreen;
+    border-radius: 30px;
+    font-size: 1.5rem;
+}
+/* banner end */
+/* cards */
+.features{
+    background-color: lightblue;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.card{
+    margin: 5%;
+    padding: 5%;
+    height: 14rem;
+    border-radius: 15px;
+}
+.heading{
+    text-align: center;
+    font-size: 2rem;
+}
+hr{
+    background-color: #672a4e;
+    width: 30%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+/* card-end */
+.varities{
+    text-align: center;
+}
+.rose-img{
+    border-radius: 50%;
+}
+.roses{
+    padding-bottom: 3%;
+}
+.name{
+    background-color: forestgreen;
+    font-size: 1.5rem;
+    width: 90%;
+    border-radius: 20px;
+    margin-left: 20px;
+    height: 3rem;
+    position: relative;
+    bottom: 40px;
+}
+.video{
+    background-color: black;
+}
+iframe{
+   padding: 0 5% 3% 5%;
+   height: 600px;
+   width: 100%;
+}
+.btn{
+    font-family: 'Dancing Script', cursive;
+    background-color: #82ad2d;
+    font-size: 1.7rem;
+    font-weight: 900;
+    border-radius: 30px;
+    padding: 0 3%;
+}
+.last{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.width-set{
+    max-width: 50vw;
+}
