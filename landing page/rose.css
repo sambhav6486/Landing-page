@@ -98,11 +98,6 @@ iframe{
    height: 600px;
    width: 100%;
 }
-form{
-    text-align: center;
-    width: 500px;
-    margin: auto;
-}
 .btn{
     font-family: 'Dancing Script', cursive;
     background-color: #82ad2d;
@@ -115,4 +110,7 @@ form{
     background-color: black;
     text-align: center;
     color: white;
+}
+.width-set{
+    max-width: 50vw;
 }
