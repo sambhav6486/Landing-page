@@ -1,11 +1,4 @@
-/* html,body
-{
-    width: 100%;
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden; 
-}
+
 /* navbar */
 .navbar{
     background-color: #332b3d;
@@ -107,7 +100,7 @@ iframe{
 }
 form{
     text-align: center;
-    width: 20%;
+    width: 500px;
     margin: auto;
 }
 .btn{
@@ -122,4 +115,4 @@ form{
     background-color: black;
     text-align: center;
     color: white;
-} */ */
+}
